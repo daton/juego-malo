@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "MI proyectoVR",
+"dataUrl": "PROYECTO_UNITY.data.unityweb",
+"asmCodeUrl": "PROYECTO_UNITY.asm.code.unityweb",
+"asmMemoryUrl": "PROYECTO_UNITY.asm.memory.unityweb",
+"asmFrameworkUrl": "PROYECTO_UNITY.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
